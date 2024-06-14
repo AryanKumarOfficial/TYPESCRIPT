@@ -1,5 +1,11 @@
-const user = { name: "John", age: 25, location: "USA" };
+const user = {
+  name: "Aryan",
+  age: 21,
+  isMale: true,
+};
 
-console.log("Hello World");
+user.name = "Aryanji";
+
+console.log("Aryan");
 
 console.log(user.name);
